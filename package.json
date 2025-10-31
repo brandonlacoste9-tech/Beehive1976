@@ -1,0 +1,23 @@
+{
+  "name": "adgenxai-website",
+  "version": "1.0.0",
+  "description": "AdGenXAI - AI-Powered Advertising Creative Platform Landing Page",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx http-server . -p 8080",
+    "deploy": "netlify deploy --prod"
+  },
+  "keywords": [
+    "adgenxai",
+    "ai",
+    "advertising",
+    "landing-page",
+    "netlify"
+  ],
+  "author": "AdGenXAI Team",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/brandonlacoste9-tech/Beehive1976.git"
+  }
+}
